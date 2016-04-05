@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name         = "AppusDropDown"
   s.version      = "0.0.1"
-  s.summary      = "AppusDropDown allow you to use drop down with single or multiply selection"
+  s.summary      = "AppusDropDown allow you to use a drop down with single or multiply selection"
   s.homepage     = "http://appus.pro"
 s.license      = { :type => "Apache", :file => "LICENSE" }
   s.author             = { "Alexey Kubas" => "alexey.kubas@appus.me" }
