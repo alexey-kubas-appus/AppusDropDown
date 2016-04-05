@@ -32,19 +32,19 @@
 		FC677C711CB3BCE000A8B329 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677C621CB3BCE000A8B329 /* icon.png */; };
 		FC677C721CB3BCE000A8B329 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677C631CB3BCE000A8B329 /* icon@2x.png */; };
 		FC677C731CB3BCE000A8B329 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677C641CB3BCE000A8B329 /* Logo.png */; };
-		FC677CB21CB3BD7800A8B329 /* ButtonDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677C9B1CB3BD7800A8B329 /* ButtonDownPicker.m */; };
-		FC677CB31CB3BD7800A8B329 /* ButtonMultiplyDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677C9E1CB3BD7800A8B329 /* ButtonMultiplyDownPicker.m */; };
-		FC677CB41CB3BD7800A8B329 /* check_mark2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677C9F1CB3BD7800A8B329 /* check_mark2@2x.png */; };
-		FC677CB51CB3BD7800A8B329 /* check_mark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677CA01CB3BD7800A8B329 /* check_mark@2x.png */; };
-		FC677CB61CB3BD7800A8B329 /* done@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677CA11CB3BD7800A8B329 /* done@2x.png */; };
-		FC677CB71CB3BD7800A8B329 /* downArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677CA21CB3BD7800A8B329 /* downArrow@2x.png */; };
-		FC677CB81CB3BD7800A8B329 /* DropDownHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CA41CB3BD7800A8B329 /* DropDownHeaderView.m */; };
-		FC677CB91CB3BD7800A8B329 /* DropDownTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CA61CB3BD7800A8B329 /* DropDownTableViewCell.m */; };
-		FC677CBA1CB3BD7800A8B329 /* DropDownTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC677CA71CB3BD7800A8B329 /* DropDownTableViewCell.xib */; };
-		FC677CBB1CB3BD7800A8B329 /* MultipleDropDownWithTags.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CA91CB3BD7800A8B329 /* MultipleDropDownWithTags.m */; };
-		FC677CBC1CB3BD7800A8B329 /* TextFieldDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CAB1CB3BD7800A8B329 /* TextFieldDownPicker.m */; };
-		FC677CBD1CB3BD7800A8B329 /* TextFieldMultiplyDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CAE1CB3BD7800A8B329 /* TextFieldMultiplyDownPicker.m */; };
-		FC677CBE1CB3BD7800A8B329 /* TLTagsControl.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CB01CB3BD7800A8B329 /* TLTagsControl.m */; };
+		FC677CD81CB3BDD900A8B329 /* ButtonDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CC11CB3BDD900A8B329 /* ButtonDownPicker.m */; };
+		FC677CD91CB3BDD900A8B329 /* ButtonMultiplyDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CC41CB3BDD900A8B329 /* ButtonMultiplyDownPicker.m */; };
+		FC677CDA1CB3BDD900A8B329 /* check_mark2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677CC51CB3BDD900A8B329 /* check_mark2@2x.png */; };
+		FC677CDB1CB3BDD900A8B329 /* check_mark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677CC61CB3BDD900A8B329 /* check_mark@2x.png */; };
+		FC677CDC1CB3BDD900A8B329 /* done@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677CC71CB3BDD900A8B329 /* done@2x.png */; };
+		FC677CDD1CB3BDD900A8B329 /* downArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC677CC81CB3BDD900A8B329 /* downArrow@2x.png */; };
+		FC677CDE1CB3BDD900A8B329 /* DropDownHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CCA1CB3BDD900A8B329 /* DropDownHeaderView.m */; };
+		FC677CDF1CB3BDD900A8B329 /* DropDownTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CCC1CB3BDD900A8B329 /* DropDownTableViewCell.m */; };
+		FC677CE01CB3BDD900A8B329 /* DropDownTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC677CCD1CB3BDD900A8B329 /* DropDownTableViewCell.xib */; };
+		FC677CE11CB3BDD900A8B329 /* MultipleDropDownWithTags.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CCF1CB3BDD900A8B329 /* MultipleDropDownWithTags.m */; };
+		FC677CE21CB3BDD900A8B329 /* TextFieldDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CD11CB3BDD900A8B329 /* TextFieldDownPicker.m */; };
+		FC677CE31CB3BDD900A8B329 /* TextFieldMultiplyDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CD41CB3BDD900A8B329 /* TextFieldMultiplyDownPicker.m */; };
+		FC677CE41CB3BDD900A8B329 /* TLTagsControl.m in Sources */ = {isa = PBXBuildFile; fileRef = FC677CD61CB3BDD900A8B329 /* TLTagsControl.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,30 +80,30 @@
 		FC677C621CB3BCE000A8B329 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		FC677C631CB3BCE000A8B329 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 		FC677C641CB3BCE000A8B329 /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
-		FC677C9A1CB3BD7800A8B329 /* ButtonDownPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonDownPicker.h; sourceTree = "<group>"; };
-		FC677C9B1CB3BD7800A8B329 /* ButtonDownPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonDownPicker.m; sourceTree = "<group>"; };
-		FC677C9C1CB3BD7800A8B329 /* ButtonDownPickerProtected.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonDownPickerProtected.h; sourceTree = "<group>"; };
-		FC677C9D1CB3BD7800A8B329 /* ButtonMultiplyDownPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonMultiplyDownPicker.h; sourceTree = "<group>"; };
-		FC677C9E1CB3BD7800A8B329 /* ButtonMultiplyDownPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonMultiplyDownPicker.m; sourceTree = "<group>"; };
-		FC677C9F1CB3BD7800A8B329 /* check_mark2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "check_mark2@2x.png"; sourceTree = "<group>"; };
-		FC677CA01CB3BD7800A8B329 /* check_mark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "check_mark@2x.png"; sourceTree = "<group>"; };
-		FC677CA11CB3BD7800A8B329 /* done@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "done@2x.png"; sourceTree = "<group>"; };
-		FC677CA21CB3BD7800A8B329 /* downArrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "downArrow@2x.png"; sourceTree = "<group>"; };
-		FC677CA31CB3BD7800A8B329 /* DropDownHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropDownHeaderView.h; sourceTree = "<group>"; };
-		FC677CA41CB3BD7800A8B329 /* DropDownHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropDownHeaderView.m; sourceTree = "<group>"; };
-		FC677CA51CB3BD7800A8B329 /* DropDownTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropDownTableViewCell.h; sourceTree = "<group>"; };
-		FC677CA61CB3BD7800A8B329 /* DropDownTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropDownTableViewCell.m; sourceTree = "<group>"; };
-		FC677CA71CB3BD7800A8B329 /* DropDownTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DropDownTableViewCell.xib; sourceTree = "<group>"; };
-		FC677CA81CB3BD7800A8B329 /* MultipleDropDownWithTags.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MultipleDropDownWithTags.h; sourceTree = "<group>"; };
-		FC677CA91CB3BD7800A8B329 /* MultipleDropDownWithTags.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MultipleDropDownWithTags.m; sourceTree = "<group>"; };
-		FC677CAA1CB3BD7800A8B329 /* TextFieldDownPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldDownPicker.h; sourceTree = "<group>"; };
-		FC677CAB1CB3BD7800A8B329 /* TextFieldDownPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldDownPicker.m; sourceTree = "<group>"; };
-		FC677CAC1CB3BD7800A8B329 /* TextFieldDownPickerProtected.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldDownPickerProtected.h; sourceTree = "<group>"; };
-		FC677CAD1CB3BD7800A8B329 /* TextFieldMultiplyDownPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldMultiplyDownPicker.h; sourceTree = "<group>"; };
-		FC677CAE1CB3BD7800A8B329 /* TextFieldMultiplyDownPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldMultiplyDownPicker.m; sourceTree = "<group>"; };
-		FC677CAF1CB3BD7800A8B329 /* TLTagsControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLTagsControl.h; sourceTree = "<group>"; };
-		FC677CB01CB3BD7800A8B329 /* TLTagsControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLTagsControl.m; sourceTree = "<group>"; };
-		FC677CB11CB3BD7800A8B329 /* TLTagsControlProtected.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLTagsControlProtected.h; sourceTree = "<group>"; };
+		FC677CC01CB3BDD900A8B329 /* ButtonDownPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonDownPicker.h; sourceTree = "<group>"; };
+		FC677CC11CB3BDD900A8B329 /* ButtonDownPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonDownPicker.m; sourceTree = "<group>"; };
+		FC677CC21CB3BDD900A8B329 /* ButtonDownPickerProtected.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonDownPickerProtected.h; sourceTree = "<group>"; };
+		FC677CC31CB3BDD900A8B329 /* ButtonMultiplyDownPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonMultiplyDownPicker.h; sourceTree = "<group>"; };
+		FC677CC41CB3BDD900A8B329 /* ButtonMultiplyDownPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonMultiplyDownPicker.m; sourceTree = "<group>"; };
+		FC677CC51CB3BDD900A8B329 /* check_mark2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "check_mark2@2x.png"; sourceTree = "<group>"; };
+		FC677CC61CB3BDD900A8B329 /* check_mark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "check_mark@2x.png"; sourceTree = "<group>"; };
+		FC677CC71CB3BDD900A8B329 /* done@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "done@2x.png"; sourceTree = "<group>"; };
+		FC677CC81CB3BDD900A8B329 /* downArrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "downArrow@2x.png"; sourceTree = "<group>"; };
+		FC677CC91CB3BDD900A8B329 /* DropDownHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropDownHeaderView.h; sourceTree = "<group>"; };
+		FC677CCA1CB3BDD900A8B329 /* DropDownHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropDownHeaderView.m; sourceTree = "<group>"; };
+		FC677CCB1CB3BDD900A8B329 /* DropDownTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropDownTableViewCell.h; sourceTree = "<group>"; };
+		FC677CCC1CB3BDD900A8B329 /* DropDownTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropDownTableViewCell.m; sourceTree = "<group>"; };
+		FC677CCD1CB3BDD900A8B329 /* DropDownTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DropDownTableViewCell.xib; sourceTree = "<group>"; };
+		FC677CCE1CB3BDD900A8B329 /* MultipleDropDownWithTags.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MultipleDropDownWithTags.h; sourceTree = "<group>"; };
+		FC677CCF1CB3BDD900A8B329 /* MultipleDropDownWithTags.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MultipleDropDownWithTags.m; sourceTree = "<group>"; };
+		FC677CD01CB3BDD900A8B329 /* TextFieldDownPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldDownPicker.h; sourceTree = "<group>"; };
+		FC677CD11CB3BDD900A8B329 /* TextFieldDownPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldDownPicker.m; sourceTree = "<group>"; };
+		FC677CD21CB3BDD900A8B329 /* TextFieldDownPickerProtected.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldDownPickerProtected.h; sourceTree = "<group>"; };
+		FC677CD31CB3BDD900A8B329 /* TextFieldMultiplyDownPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldMultiplyDownPicker.h; sourceTree = "<group>"; };
+		FC677CD41CB3BDD900A8B329 /* TextFieldMultiplyDownPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldMultiplyDownPicker.m; sourceTree = "<group>"; };
+		FC677CD51CB3BDD900A8B329 /* TLTagsControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLTagsControl.h; sourceTree = "<group>"; };
+		FC677CD61CB3BDD900A8B329 /* TLTagsControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLTagsControl.m; sourceTree = "<group>"; };
+		FC677CD71CB3BDD900A8B329 /* TLTagsControlProtected.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLTagsControlProtected.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,7 +136,7 @@
 		FC3A20B81CB2BA4A005D8BA3 /* AppusDropDown */ = {
 			isa = PBXGroup;
 			children = (
-				FC677C991CB3BD7800A8B329 /* Source */,
+				FC677CBF1CB3BDD900A8B329 /* Sources */,
 				FC677C551CB3BCE000A8B329 /* Resources */,
 				FC3A20F61CB2BFF5005D8BA3 /* LaunchScreen.storyboard */,
 				FC3A20F71CB2BFF5005D8BA3 /* Main.storyboard */,
@@ -181,36 +181,36 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		FC677C991CB3BD7800A8B329 /* Source */ = {
+		FC677CBF1CB3BDD900A8B329 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				FC677C9A1CB3BD7800A8B329 /* ButtonDownPicker.h */,
-				FC677C9B1CB3BD7800A8B329 /* ButtonDownPicker.m */,
-				FC677C9C1CB3BD7800A8B329 /* ButtonDownPickerProtected.h */,
-				FC677C9D1CB3BD7800A8B329 /* ButtonMultiplyDownPicker.h */,
-				FC677C9E1CB3BD7800A8B329 /* ButtonMultiplyDownPicker.m */,
-				FC677C9F1CB3BD7800A8B329 /* check_mark2@2x.png */,
-				FC677CA01CB3BD7800A8B329 /* check_mark@2x.png */,
-				FC677CA11CB3BD7800A8B329 /* done@2x.png */,
-				FC677CA21CB3BD7800A8B329 /* downArrow@2x.png */,
-				FC677CA31CB3BD7800A8B329 /* DropDownHeaderView.h */,
-				FC677CA41CB3BD7800A8B329 /* DropDownHeaderView.m */,
-				FC677CA51CB3BD7800A8B329 /* DropDownTableViewCell.h */,
-				FC677CA61CB3BD7800A8B329 /* DropDownTableViewCell.m */,
-				FC677CA71CB3BD7800A8B329 /* DropDownTableViewCell.xib */,
-				FC677CA81CB3BD7800A8B329 /* MultipleDropDownWithTags.h */,
-				FC677CA91CB3BD7800A8B329 /* MultipleDropDownWithTags.m */,
-				FC677CAA1CB3BD7800A8B329 /* TextFieldDownPicker.h */,
-				FC677CAB1CB3BD7800A8B329 /* TextFieldDownPicker.m */,
-				FC677CAC1CB3BD7800A8B329 /* TextFieldDownPickerProtected.h */,
-				FC677CAD1CB3BD7800A8B329 /* TextFieldMultiplyDownPicker.h */,
-				FC677CAE1CB3BD7800A8B329 /* TextFieldMultiplyDownPicker.m */,
-				FC677CAF1CB3BD7800A8B329 /* TLTagsControl.h */,
-				FC677CB01CB3BD7800A8B329 /* TLTagsControl.m */,
-				FC677CB11CB3BD7800A8B329 /* TLTagsControlProtected.h */,
+				FC677CC01CB3BDD900A8B329 /* ButtonDownPicker.h */,
+				FC677CC11CB3BDD900A8B329 /* ButtonDownPicker.m */,
+				FC677CC21CB3BDD900A8B329 /* ButtonDownPickerProtected.h */,
+				FC677CC31CB3BDD900A8B329 /* ButtonMultiplyDownPicker.h */,
+				FC677CC41CB3BDD900A8B329 /* ButtonMultiplyDownPicker.m */,
+				FC677CC51CB3BDD900A8B329 /* check_mark2@2x.png */,
+				FC677CC61CB3BDD900A8B329 /* check_mark@2x.png */,
+				FC677CC71CB3BDD900A8B329 /* done@2x.png */,
+				FC677CC81CB3BDD900A8B329 /* downArrow@2x.png */,
+				FC677CC91CB3BDD900A8B329 /* DropDownHeaderView.h */,
+				FC677CCA1CB3BDD900A8B329 /* DropDownHeaderView.m */,
+				FC677CCB1CB3BDD900A8B329 /* DropDownTableViewCell.h */,
+				FC677CCC1CB3BDD900A8B329 /* DropDownTableViewCell.m */,
+				FC677CCD1CB3BDD900A8B329 /* DropDownTableViewCell.xib */,
+				FC677CCE1CB3BDD900A8B329 /* MultipleDropDownWithTags.h */,
+				FC677CCF1CB3BDD900A8B329 /* MultipleDropDownWithTags.m */,
+				FC677CD01CB3BDD900A8B329 /* TextFieldDownPicker.h */,
+				FC677CD11CB3BDD900A8B329 /* TextFieldDownPicker.m */,
+				FC677CD21CB3BDD900A8B329 /* TextFieldDownPickerProtected.h */,
+				FC677CD31CB3BDD900A8B329 /* TextFieldMultiplyDownPicker.h */,
+				FC677CD41CB3BDD900A8B329 /* TextFieldMultiplyDownPicker.m */,
+				FC677CD51CB3BDD900A8B329 /* TLTagsControl.h */,
+				FC677CD61CB3BDD900A8B329 /* TLTagsControl.m */,
+				FC677CD71CB3BDD900A8B329 /* TLTagsControlProtected.h */,
 			);
-			name = Source;
-			path = ../Source;
+			name = Sources;
+			path = ../Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -272,14 +272,14 @@
 			files = (
 				FC677C701CB3BCE000A8B329 /* icon-80.png in Resources */,
 				FC677C6B1CB3BCE000A8B329 /* icon-60@2x.png in Resources */,
-				FC677CB51CB3BD7800A8B329 /* check_mark@2x.png in Resources */,
+				FC677CDB1CB3BDD900A8B329 /* check_mark@2x.png in Resources */,
 				FC677C6F1CB3BCE000A8B329 /* icon-76@2x.png in Resources */,
 				FC677C6A1CB3BCE000A8B329 /* icon-50@2x.png in Resources */,
 				FC677C651CB3BCE000A8B329 /* icon-29.png in Resources */,
 				FC3A20D21CB2BA4A005D8BA3 /* Info.plist in Resources */,
-				FC677CB61CB3BD7800A8B329 /* done@2x.png in Resources */,
+				FC677CDC1CB3BDD900A8B329 /* done@2x.png in Resources */,
 				FC677C711CB3BCE000A8B329 /* icon.png in Resources */,
-				FC677CBA1CB3BD7800A8B329 /* DropDownTableViewCell.xib in Resources */,
+				FC677CE01CB3BDD900A8B329 /* DropDownTableViewCell.xib in Resources */,
 				FC3A20F81CB2BFF5005D8BA3 /* LaunchScreen.storyboard in Resources */,
 				FC677C681CB3BCE000A8B329 /* icon-40@2x.png in Resources */,
 				FC3A20F91CB2BFF5005D8BA3 /* Main.storyboard in Resources */,
@@ -287,11 +287,11 @@
 				FC677C671CB3BCE000A8B329 /* icon-40.png in Resources */,
 				FC677C6C1CB3BCE000A8B329 /* icon-72.png in Resources */,
 				FC677C691CB3BCE000A8B329 /* icon-50.png in Resources */,
-				FC677CB71CB3BD7800A8B329 /* downArrow@2x.png in Resources */,
+				FC677CDD1CB3BDD900A8B329 /* downArrow@2x.png in Resources */,
 				FC677C6D1CB3BCE000A8B329 /* icon-72@2x.png in Resources */,
 				FC677C731CB3BCE000A8B329 /* Logo.png in Resources */,
 				FC677C6E1CB3BCE000A8B329 /* icon-76.png in Resources */,
-				FC677CB41CB3BD7800A8B329 /* check_mark2@2x.png in Resources */,
+				FC677CDA1CB3BDD900A8B329 /* check_mark2@2x.png in Resources */,
 				FC677C721CB3BCE000A8B329 /* icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -303,21 +303,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC677CBE1CB3BD7800A8B329 /* TLTagsControl.m in Sources */,
-				FC677CB91CB3BD7800A8B329 /* DropDownTableViewCell.m in Sources */,
+				FC677CE41CB3BDD900A8B329 /* TLTagsControl.m in Sources */,
+				FC677CDF1CB3BDD900A8B329 /* DropDownTableViewCell.m in Sources */,
 				FC3A20CC1CB2BA4A005D8BA3 /* AppDelegate.m in Sources */,
 				FC3A20D51CB2BA4A005D8BA3 /* TextFieldMultiplyDropDownTestViewController.m in Sources */,
 				FC3A20D41CB2BA4A005D8BA3 /* MultipleDropDownWithTagsTestViewController.m in Sources */,
 				FC3A20D11CB2BA4A005D8BA3 /* ButtonSingleDropDownTestViewController.m in Sources */,
-				FC677CBB1CB3BD7800A8B329 /* MultipleDropDownWithTags.m in Sources */,
+				FC677CE11CB3BDD900A8B329 /* MultipleDropDownWithTags.m in Sources */,
 				FC3A20D61CB2BA4A005D8BA3 /* TextFieldSingleDropDownTestViewController.m in Sources */,
 				FC3A20D31CB2BA4A005D8BA3 /* main.m in Sources */,
-				FC677CB81CB3BD7800A8B329 /* DropDownHeaderView.m in Sources */,
-				FC677CBD1CB3BD7800A8B329 /* TextFieldMultiplyDownPicker.m in Sources */,
-				FC677CB31CB3BD7800A8B329 /* ButtonMultiplyDownPicker.m in Sources */,
-				FC677CBC1CB3BD7800A8B329 /* TextFieldDownPicker.m in Sources */,
+				FC677CDE1CB3BDD900A8B329 /* DropDownHeaderView.m in Sources */,
+				FC677CE31CB3BDD900A8B329 /* TextFieldMultiplyDownPicker.m in Sources */,
+				FC677CD91CB3BDD900A8B329 /* ButtonMultiplyDownPicker.m in Sources */,
+				FC677CE21CB3BDD900A8B329 /* TextFieldDownPicker.m in Sources */,
 				FC3A20D01CB2BA4A005D8BA3 /* ButtonMultiplyDropDownTestViewController.m in Sources */,
-				FC677CB21CB3BD7800A8B329 /* ButtonDownPicker.m in Sources */,
+				FC677CD81CB3BDD900A8B329 /* ButtonDownPicker.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
