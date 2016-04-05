@@ -21,9 +21,6 @@
 		62E164E11C24170D00CFDAD4 /* DropDownTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E164DA1C24170D00CFDAD4 /* DropDownTableViewCell.m */; };
 		62E3928D1C2B2F77007622D3 /* ButtonMultiplyDownPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E3928C1C2B2F77007622D3 /* ButtonMultiplyDownPicker.m */; };
 		FC3A20CC1CB2BA4A005D8BA3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3A20BA1CB2BA4A005D8BA3 /* AppDelegate.m */; };
-		FC3A20CD1CB2BA4A005D8BA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20BB1CB2BA4A005D8BA3 /* Assets.xcassets */; };
-		FC3A20CE1CB2BA4A005D8BA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20BC1CB2BA4A005D8BA3 /* LaunchScreen.storyboard */; };
-		FC3A20CF1CB2BA4A005D8BA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20BE1CB2BA4A005D8BA3 /* Main.storyboard */; };
 		FC3A20D01CB2BA4A005D8BA3 /* ButtonMultiplyDropDownTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3A20C11CB2BA4A005D8BA3 /* ButtonMultiplyDropDownTestViewController.m */; };
 		FC3A20D11CB2BA4A005D8BA3 /* ButtonSingleDropDownTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3A20C31CB2BA4A005D8BA3 /* ButtonSingleDropDownTestViewController.m */; };
 		FC3A20D21CB2BA4A005D8BA3 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20C41CB2BA4A005D8BA3 /* Info.plist */; };
@@ -31,6 +28,23 @@
 		FC3A20D41CB2BA4A005D8BA3 /* MultipleDropDownWithTagsTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3A20C71CB2BA4A005D8BA3 /* MultipleDropDownWithTagsTestViewController.m */; };
 		FC3A20D51CB2BA4A005D8BA3 /* TextFieldMultiplyDropDownTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3A20C91CB2BA4A005D8BA3 /* TextFieldMultiplyDropDownTestViewController.m */; };
 		FC3A20D61CB2BA4A005D8BA3 /* TextFieldSingleDropDownTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3A20CB1CB2BA4A005D8BA3 /* TextFieldSingleDropDownTestViewController.m */; };
+		FC3A20F81CB2BFF5005D8BA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20F61CB2BFF5005D8BA3 /* LaunchScreen.storyboard */; };
+		FC3A20F91CB2BFF5005D8BA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20F71CB2BFF5005D8BA3 /* Main.storyboard */; };
+		FC3A21091CB2C114005D8BA3 /* icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20FA1CB2C114005D8BA3 /* icon-29.png */; };
+		FC3A210A1CB2C114005D8BA3 /* icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20FB1CB2C114005D8BA3 /* icon-29@2x.png */; };
+		FC3A210B1CB2C114005D8BA3 /* icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20FC1CB2C114005D8BA3 /* icon-40.png */; };
+		FC3A210C1CB2C114005D8BA3 /* icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20FD1CB2C114005D8BA3 /* icon-40@2x.png */; };
+		FC3A210D1CB2C114005D8BA3 /* icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20FE1CB2C114005D8BA3 /* icon-50.png */; };
+		FC3A210E1CB2C114005D8BA3 /* icon-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A20FF1CB2C114005D8BA3 /* icon-50@2x.png */; };
+		FC3A210F1CB2C114005D8BA3 /* icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21001CB2C114005D8BA3 /* icon-60@2x.png */; };
+		FC3A21101CB2C114005D8BA3 /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21011CB2C114005D8BA3 /* icon-72.png */; };
+		FC3A21111CB2C114005D8BA3 /* icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21021CB2C114005D8BA3 /* icon-72@2x.png */; };
+		FC3A21121CB2C114005D8BA3 /* icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21031CB2C114005D8BA3 /* icon-76.png */; };
+		FC3A21131CB2C114005D8BA3 /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21041CB2C114005D8BA3 /* icon-76@2x.png */; };
+		FC3A21141CB2C114005D8BA3 /* icon-80.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21051CB2C114005D8BA3 /* icon-80.png */; };
+		FC3A21151CB2C114005D8BA3 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21061CB2C114005D8BA3 /* icon.png */; };
+		FC3A21161CB2C114005D8BA3 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21071CB2C114005D8BA3 /* icon@2x.png */; };
+		FC3A21171CB2C114005D8BA3 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3A21081CB2C114005D8BA3 /* Logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,9 +75,6 @@
 		62EA04A71C2D527A005C6088 /* ButtonDownPickerProtected.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonDownPickerProtected.h; sourceTree = "<group>"; };
 		FC3A20B91CB2BA4A005D8BA3 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FC3A20BA1CB2BA4A005D8BA3 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		FC3A20BB1CB2BA4A005D8BA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FC3A20BD1CB2BA4A005D8BA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FC3A20BF1CB2BA4A005D8BA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FC3A20C01CB2BA4A005D8BA3 /* ButtonMultiplyDropDownTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonMultiplyDropDownTestViewController.h; sourceTree = "<group>"; };
 		FC3A20C11CB2BA4A005D8BA3 /* ButtonMultiplyDropDownTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonMultiplyDropDownTestViewController.m; sourceTree = "<group>"; };
 		FC3A20C21CB2BA4A005D8BA3 /* ButtonSingleDropDownTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonSingleDropDownTestViewController.h; sourceTree = "<group>"; };
@@ -76,6 +87,23 @@
 		FC3A20C91CB2BA4A005D8BA3 /* TextFieldMultiplyDropDownTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldMultiplyDropDownTestViewController.m; sourceTree = "<group>"; };
 		FC3A20CA1CB2BA4A005D8BA3 /* TextFieldSingleDropDownTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldSingleDropDownTestViewController.h; sourceTree = "<group>"; };
 		FC3A20CB1CB2BA4A005D8BA3 /* TextFieldSingleDropDownTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldSingleDropDownTestViewController.m; sourceTree = "<group>"; };
+		FC3A20F61CB2BFF5005D8BA3 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FC3A20F71CB2BFF5005D8BA3 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		FC3A20FA1CB2C114005D8BA3 /* icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-29.png"; sourceTree = "<group>"; };
+		FC3A20FB1CB2C114005D8BA3 /* icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-29@2x.png"; sourceTree = "<group>"; };
+		FC3A20FC1CB2C114005D8BA3 /* icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-40.png"; sourceTree = "<group>"; };
+		FC3A20FD1CB2C114005D8BA3 /* icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-40@2x.png"; sourceTree = "<group>"; };
+		FC3A20FE1CB2C114005D8BA3 /* icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-50.png"; sourceTree = "<group>"; };
+		FC3A20FF1CB2C114005D8BA3 /* icon-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-50@2x.png"; sourceTree = "<group>"; };
+		FC3A21001CB2C114005D8BA3 /* icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-60@2x.png"; sourceTree = "<group>"; };
+		FC3A21011CB2C114005D8BA3 /* icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72.png"; sourceTree = "<group>"; };
+		FC3A21021CB2C114005D8BA3 /* icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72@2x.png"; sourceTree = "<group>"; };
+		FC3A21031CB2C114005D8BA3 /* icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-76.png"; sourceTree = "<group>"; };
+		FC3A21041CB2C114005D8BA3 /* icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-76@2x.png"; sourceTree = "<group>"; };
+		FC3A21051CB2C114005D8BA3 /* icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-80.png"; sourceTree = "<group>"; };
+		FC3A21061CB2C114005D8BA3 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		FC3A21071CB2C114005D8BA3 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		FC3A21081CB2C114005D8BA3 /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,11 +176,25 @@
 		FC3A20B81CB2BA4A005D8BA3 /* AppusDropDown */ = {
 			isa = PBXGroup;
 			children = (
+				FC3A20FA1CB2C114005D8BA3 /* icon-29.png */,
+				FC3A20FB1CB2C114005D8BA3 /* icon-29@2x.png */,
+				FC3A20FC1CB2C114005D8BA3 /* icon-40.png */,
+				FC3A20FD1CB2C114005D8BA3 /* icon-40@2x.png */,
+				FC3A20FE1CB2C114005D8BA3 /* icon-50.png */,
+				FC3A20FF1CB2C114005D8BA3 /* icon-50@2x.png */,
+				FC3A21001CB2C114005D8BA3 /* icon-60@2x.png */,
+				FC3A21011CB2C114005D8BA3 /* icon-72.png */,
+				FC3A21021CB2C114005D8BA3 /* icon-72@2x.png */,
+				FC3A21031CB2C114005D8BA3 /* icon-76.png */,
+				FC3A21041CB2C114005D8BA3 /* icon-76@2x.png */,
+				FC3A21051CB2C114005D8BA3 /* icon-80.png */,
+				FC3A21061CB2C114005D8BA3 /* icon.png */,
+				FC3A21071CB2C114005D8BA3 /* icon@2x.png */,
+				FC3A21081CB2C114005D8BA3 /* Logo.png */,
+				FC3A20F61CB2BFF5005D8BA3 /* LaunchScreen.storyboard */,
+				FC3A20F71CB2BFF5005D8BA3 /* Main.storyboard */,
 				FC3A20B91CB2BA4A005D8BA3 /* AppDelegate.h */,
 				FC3A20BA1CB2BA4A005D8BA3 /* AppDelegate.m */,
-				FC3A20BB1CB2BA4A005D8BA3 /* Assets.xcassets */,
-				FC3A20BC1CB2BA4A005D8BA3 /* LaunchScreen.storyboard */,
-				FC3A20BE1CB2BA4A005D8BA3 /* Main.storyboard */,
 				FC3A20C01CB2BA4A005D8BA3 /* ButtonMultiplyDropDownTestViewController.h */,
 				FC3A20C11CB2BA4A005D8BA3 /* ButtonMultiplyDropDownTestViewController.m */,
 				FC3A20C21CB2BA4A005D8BA3 /* ButtonSingleDropDownTestViewController.h */,
@@ -227,15 +269,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC3A21141CB2C114005D8BA3 /* icon-80.png in Resources */,
+				FC3A210F1CB2C114005D8BA3 /* icon-60@2x.png in Resources */,
+				FC3A21131CB2C114005D8BA3 /* icon-76@2x.png in Resources */,
+				FC3A210E1CB2C114005D8BA3 /* icon-50@2x.png in Resources */,
 				62AEF0971C341E7C00F4AE49 /* DropDownTableViewCell.xib in Resources */,
 				62E164DE1C24170D00CFDAD4 /* check_mark@2x.png in Resources */,
+				FC3A21091CB2C114005D8BA3 /* icon-29.png in Resources */,
 				FC3A20D21CB2BA4A005D8BA3 /* Info.plist in Resources */,
+				FC3A21151CB2C114005D8BA3 /* icon.png in Resources */,
+				FC3A20F81CB2BFF5005D8BA3 /* LaunchScreen.storyboard in Resources */,
+				FC3A210C1CB2C114005D8BA3 /* icon-40@2x.png in Resources */,
+				FC3A20F91CB2BFF5005D8BA3 /* Main.storyboard in Resources */,
 				62E164DF1C24170D00CFDAD4 /* done@2x.png in Resources */,
-				FC3A20CF1CB2BA4A005D8BA3 /* Main.storyboard in Resources */,
 				62E0004E1C43C46A00E99BF6 /* check_mark2@2x.png in Resources */,
-				FC3A20CE1CB2BA4A005D8BA3 /* LaunchScreen.storyboard in Resources */,
-				FC3A20CD1CB2BA4A005D8BA3 /* Assets.xcassets in Resources */,
+				FC3A210A1CB2C114005D8BA3 /* icon-29@2x.png in Resources */,
+				FC3A210B1CB2C114005D8BA3 /* icon-40.png in Resources */,
+				FC3A21101CB2C114005D8BA3 /* icon-72.png in Resources */,
 				62E0D80A1C295AFB00C3887B /* downArrow@2x.png in Resources */,
+				FC3A210D1CB2C114005D8BA3 /* icon-50.png in Resources */,
+				FC3A21111CB2C114005D8BA3 /* icon-72@2x.png in Resources */,
+				FC3A21171CB2C114005D8BA3 /* Logo.png in Resources */,
+				FC3A21121CB2C114005D8BA3 /* icon-76.png in Resources */,
+				FC3A21161CB2C114005D8BA3 /* icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,25 +321,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		FC3A20BC1CB2BA4A005D8BA3 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FC3A20BD1CB2BA4A005D8BA3 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		FC3A20BE1CB2BA4A005D8BA3 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FC3A20BF1CB2BA4A005D8BA3 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		623630061C1F181F00E097E2 /* Debug */ = {
@@ -322,7 +359,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -360,7 +397,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -371,9 +408,9 @@
 		623630091C1F181F00E097E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = AppusDropDown/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appus.DropDown;
 				PRODUCT_NAME = AppusDropDown;
@@ -384,9 +421,9 @@
 		6236300A1C1F181F00E097E2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = AppusDropDown/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appus.DropDown;
 				PRODUCT_NAME = AppusDropDown;
